@@ -1,12 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="HBO Family HD">
-    <display-name lang="pt">HBO Family HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/ae.gif" />
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CARTOON HD">
-    <display-name lang="pt">CARTOON HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  </tv>
+ <?xml version="1.0" encoding="UTF-8"?> 
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"> 
+  <channel id="HBO Family HD"> 
+    <display-name lang="pt">HBO Family HD</display-name> 
+    <url>http://www.netcombo.com.br</url> 
+  </channel> 
+</tv>
